@@ -89,10 +89,10 @@ Expected Monthly Return:
 Across 1,000 simulated market scenarios:
 
 
-Portfolio 1 : Average Simulated Return =	4.23%
-Portfolio 1 : Standarad Deviation = 9.59%
-Portfolio 2 : Average Simulated Return =	4.15%
-Portfolio 2 : Standarad Deviation = 10.35%
+Portfolio 1 : Average Simulated Return =	4.23% ; 
+Standarad Deviation = 9.59%
+Portfolio 2 : Average Simulated Return =	4.15% ; 
+Standarad Deviation = 10.35%
 Probability of (Portfolio 1 Return > Portfolio 2 Return) = 51.20% out of 1000 uncertain scenarios
 
 
